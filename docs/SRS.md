@@ -1,14 +1,14 @@
 # Especificación de Requerimientos de Software (SRS)
 
-**Proyecto:** CleanSea — videojuego educativo sobre el cuidado de las zonas azules *(nombre provisional)*
-**Versión:** 1.0 · **Fecha:** [dd/mm/aaaa] · **Plantilla:** IEEE 830
-**Equipo:** [Nombres]
+**Proyecto:** CleanSea — videojuego educativo sobre el cuidado de las zonas azules *CleanSea*
+**Versión:** 1.0 · **Fecha:** 12/11/2026 · **Plantilla:** IEEE 830
+**Equipo:** Karol Roberto Navarro Urzúa | Ozmar itiel Murguia
 
 ## Historial de versiones
 
 | Versión | Fecha | Autor | Cambios |
 |---|---|---|---|
-| 1.0 | [fecha] | [equipo] | Primera versión: secciones 1 a 3 |
+| 1.0 | 12/11/2026 | Karol y Ozmar | Primera versión: secciones 1 a 3 |
 
 ---
 
@@ -164,10 +164,10 @@ Recolectar residuos, administrar inventario, vender, comprar herramientas, desbl
 
 | Requerimiento | Issue | Responsable |
 |---|---|---|
-| RF-01 | #[n] | @[usuario] |
-| RF-02 | #[n] | @[usuario] |
-| RF-03 | #[n] | @[usuario] |
-| RF-04 | #[n] | @[usuario] |
-| RF-05 | #[n] | @[usuario] |
-| RF-06 | #[n] | @[usuario] |
-| RF-07 | #[n] | @[usuario] |
+| RF-01 | #1 | @unp4n |
+| RF-02 | #2 | @unp4n |
+| RF-03 | #3 | @unp4n |
+| RF-04 | #4 | @unp4n |
+| RF-05 | #5 | @unp4n |
+| RF-06 | #6 | @unpan |
+| RF-07 | #7 | @unpan |
